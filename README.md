@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+Full+Stack+Developer;Multi-Agent+AI+%7C+RAG+Systems+%7C+Automation;Computer+Vision+%7C+LLMs+%7C+Backend+Engineering;Building+Intelligent+Systems+That+Scale" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+Full+Stack+Developer;Multi-Agent+AI+%7C+RAG+Systems+%7C+Automation;Computer+Vision+%7C+LLMs+%7C+Backend+Engineering" />
   </a>
 </h3>
 
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I'm an **AI Engineer and Full Stack Developer** passionate about building intelligent, scalable, and production-oriented systems that combine modern AI capabilities with practical software engineering.
+I'm an **AI/ML Engineer and Full Stack Developer** passionate about building intelligent, scalable, and production-oriented systems that combine modern AI capabilities with practical software engineering.
 
 My work primarily focuses on **Multi-Agent AI Systems, Retrieval-Augmented Generation (RAG), Automation Engineering, Computer Vision, and scalable backend architectures**. I enjoy designing applications that bridge AI research with real-world usability through clean engineering and modular system design.
 
@@ -35,7 +35,7 @@ My work primarily focuses on **Multi-Agent AI Systems, Retrieval-Augmented Gener
 | **Automation & Analytics** | n8n, Make.com, Streamlit, Pandas, NumPy, Power BI                                     |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,fastapi,flask,tensorflow,pytorch,docker,kubernetes,aws,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,fastapi,flask,pytorch,docker,kubernetes,aws,git,github,vscode&theme=light" />
 </p>
 
 ---
@@ -135,5 +135,5 @@ Developed scalable MERN-based healthcare workflows with secure authentication sy
 ## 🌟 Quote to Code By
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Building+intelligent+systems+through+engineering+and+automation." />
+  <i>Building intelligent systems through engineering, automation, and scalable design.</i>
 </p>
